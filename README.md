@@ -63,6 +63,9 @@ To coordinate or ask about contributing, contact **[@iridevill on Telegram](http
 
 This project is under active development. Check `NOTES.md` and the issue tracker for known limitations and hardware-specific validation gaps. The UI and services should not be treated as a guarantee that every Windows tweak improves performance; benefits depend on the system and workload.
 
+## Acknowledgments
+iritool was built with the help of two AI coding agents: **Freebuff** and **Claude Code**.
+
 ## فارسی
 
 **iritool** یک ابزار ویندوزی برای مشاهده وضعیت سخت‌افزار، تنظیمات قابل بازگشت و پروفایل بازی است. امکانات آن شامل مانیتور سخت‌افزار، اورلی قابل تنظیم، گزارش اطلاعات سیستم، مدیریت برنامه‌های شروع به کار، Gaming Mode و آزمون CPU است. اطلاعات سنسوری که در دسترس نباشد با `—` نمایش داده می‌شود؛ اورلی در بازی تزریق نمی‌کند و FPS نشان نمی‌دهد.
